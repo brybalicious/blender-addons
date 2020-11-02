@@ -1,0 +1,3 @@
+[submodule "toggle_mmb_numpad"]
+	path = toggle_mmb_numpad
+	url = https://github.com/brybalicious/toggle_mmb_numpad.git
